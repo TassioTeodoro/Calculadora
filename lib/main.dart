@@ -10,7 +10,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Calculadora Mobile"),
+          title: Text("Calculadora"),
         ),
         body: Center(
           child: Calculadora(),
